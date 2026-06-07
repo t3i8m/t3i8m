@@ -7,12 +7,12 @@ Junior AI Engineer · ML Researcher · Builder
 
 ## 🧭 About Me
 
-I'm a Data Science & AI student at Maastricht University with hands-on experience spanning financial analytics, NLP pipelines, and medical ML research. I enjoy building things that work — from CNNs from scratch to production-grade RAG systems.
+I'm a Data Science & AI student at Maastricht University with hands-on experience spanning financial analytics, NLP pipelines, and medical ML research. I enjoy building things that work - from CNNs from scratch to production-grade RAG systems.
 
-- 🔬 **Thesis @ MUMC+** — Predicting Postoperative Delirium from intraoperative EEG signals
-- 💼 **Junior AI Engineer @ LARKinfolab** — GraphRAG architecture with ReAct agents
-- 🏦 **Data Science Intern @ Luminor Group** — EDA on 10M+ rows, NLP extraction pipeline
-- 🌌 **Kaggle** — Stellar Classification (0.954 balanced accuracy)
+- 🔬 **Thesis @ MUMC+** - Predicting Postoperative Delirium from intraoperative EEG signals
+- 💼 **Junior AI Engineer @ LARKinfolab** - GraphRAG architecture with ReAct agents
+- 🏦 **Data Science Intern @ Luminor Group** - EDA on 10M+ rows, NLP extraction pipeline
+- 🌌 **Kaggle** - Stellar Classification (0.954 balanced accuracy)
 
 ---
 
@@ -22,7 +22,7 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [CNN from Scratch](https://github.com/t3i8m/CNN) | Convolutional neural network built with NumPy only — no PyTorch/TensorFlow. Trains on MNIST with custom conv, ReLU, softmax, backprop | Python, NumPy |
+| [CNN from Scratch](https://github.com/t3i8m/CNN) | Convolutional neural network built with NumPy only - no PyTorch/TensorFlow. Trains on MNIST with custom conv, ReLU, softmax, backprop | Python, NumPy |
 | [Multilayer Perceptron](https://github.com/t3i8m/Multilayer-Perceptron) | Handwritten digit recognition from a single image using a neural network built from scratch | Python, NumPy |
 | [Simple Language Model](https://github.com/t3i8m/Simple-Language-Model) | Feed-forward neural language model in PyTorch. Fixed context window of 5 BERT token IDs predicting the next token on tinyshakespeare | Python, PyTorch |
 
@@ -37,7 +37,7 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [NLP Labs](https://github.com/t3i8m/nlp_labs) | Labs covering Tokenization (BPE), Information Retrieval (TF-IDF), BERT, Prompt Engineering | Python, HuggingFace |
-| [Comparative Study NMT](https://github.com/t3i8m/Comparative-Study-NMT) | Analysis of NMT architectures: Seq2Seq LSTM vs MarianMT vs M2M100 — accuracy, noise robustness, adaptability | Python, PyTorch |
+| [Comparative Study NMT](https://github.com/t3i8m/Comparative-Study-NMT) | Analysis of NMT architectures: Seq2Seq LSTM vs MarianMT vs M2M100 - accuracy, noise robustness, adaptability | Python, PyTorch |
 
 ### 🎮 Other
 
