@@ -29,7 +29,7 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 
 | Competition | Score | Approach |
 |-------------|-------|----------|
-| [Stellar Classification (S6E6)](https://github.com/t3i8m/stellar-classification) | **0.954** balanced accuracy | XGBoost + Optuna + sklearn Pipeline + Error Analysis |
+| [Stellar Classification (S6E6)](https://github.com/t3i8m/predicting-stellar-class) | **0.954** balanced accuracy | XGBoost + Optuna + sklearn Pipeline + Error Analysis |
 
 ### 📝 NLP
 
