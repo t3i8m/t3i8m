@@ -11,7 +11,7 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 
 - 🔬 **Thesis @ MUMC+** - Predicting Postoperative Delirium from intraoperative EEG signals
 - 💼 **Junior AI Engineer @ LARKinfolab** - GraphRAG architecture with ReAct agents
-- 🏦 **Data Science Intern @ Luminor Group** - EDA on 10M+ rows, NLP extraction pipeline
+- 🏦 **Data Science Intern @ Luminor Group** - Large-scale EDA (10M+ rows), built NLP extraction pipeline for 200K+ records, customer segmentation that reduced SMS costs
 
 ---
 
