@@ -42,7 +42,7 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [KEN2 Project](https://github.com/t3i8m/KEN2_project) | Yinsh board game with two AI bots: Alpha-Beta pruning and Deep Q-Network | Java, JavaFX |
+| [Yinsh game AI](https://github.com/t3i8m/KEN2_project) | Yinsh board game with two AI bots: Alpha-Beta pruning and Deep Q-Network | Java, JavaFX |
 
 ---
 
