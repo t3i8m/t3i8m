@@ -1,21 +1,27 @@
 # Hi, I'm Timurs Jerčaks 👋
 
 **BSc Data Science & AI @ Maastricht University**  
-Junior AI Engineer · ML Researcher · Builder
+Junior Data Scientist · ML Researcher · Builder
 
 ---
 
 ## 🧭 About Me
 
-I'm a Data Science & AI student at Maastricht University with hands-on experience spanning financial analytics, NLP pipelines, and medical ML research. I enjoy building things that work - from CNNs from scratch to production-grade RAG systems.
+I'm a Data Science & AI graduate at Maastricht University with hands-on experience spanning financial analytics, NLP pipelines, and medical ML research. I enjoy building things that work - from CNNs from scratch to production-grade RAG systems and real-time ML services.
 
 - 🔬 **Thesis @ MUMC+** - Predicting Postoperative Delirium from intraoperative EEG signals
-- 💼 **Junior AI Engineer @ LARKinfolab** - GraphRAG architecture with ReAct agents
+- 💼 **Junior Data Scientist @ LARKinfolab** - GraphRAG architecture with ReAct agents
 - 🏦 **Data Science Intern @ Luminor Group** - Large-scale EDA (10M+ rows), built NLP extraction pipeline for 200K+ records, customer segmentation that reduced SMS costs
 
 ---
 
 ## 🚀 Projects
+
+### ⚙️ Production ML Systems
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Fraud Detection](https://github.com/t3i8m/fraud-detection) | Real-time credit card fraud scoring on 13M+ transactions - XGBoost behind a FastAPI endpoint that reconstructs features from Redis in milliseconds, MLflow model registry with SHAP/feature-importance logging, hourly Evidently drift checks, Prometheus + Grafana dashboards, and CI/CD that ships to production on a git tag | Python, FastAPI, Redis, PostgreSQL, MLflow, Docker, Evidently, Prometheus/Grafana |
 
 ### 🤖 Machine Learning & Deep Learning
 
@@ -49,10 +55,13 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 ## 🛠️ Stack
 
 **ML/AI**  
-`XGBoost` `LightGBM` `scikit-learn` `PyTorch` `HuggingFace` `LangChain` `optuna`
+`XGBoost` `LightGBM` `scikit-learn` `PyTorch` `HuggingFace` `LangChain` `optuna` `SHAP`
 
 **LLM & RAG**  
 `ReAct Agents` `GraphRAG` `Neo4j` `Pydantic` `local models`
+
+**MLOps / Infra**  
+`MLflow` `Docker` `Redis` `PostgreSQL` `Prometheus` `Grafana` `Evidently` `GitHub Actions`
 
 **Data**  
 `pandas` `numpy` `SQL` `matplotlib` `seaborn` `plotly`
@@ -64,14 +73,15 @@ I'm a Data Science & AI student at Maastricht University with hands-on experienc
 
 ## 📊 Currently Working On
 
-- 🧠 EEG-based ML pipeline for Postoperative Delirium prediction @ MUMC+
+- 📐 Deepening my statistics foundations
+- 🕸️ Building out GraphRAG @ LARKinfolab
 - 📝 Writing about ML on [Medium](https://medium.com/@timurs.jercaks)
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timur-jerčaks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timurs-jerčaks/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@timurs.jercaks)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com)
 
